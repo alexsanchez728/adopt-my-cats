@@ -1,3 +1,31 @@
+img {
+  max-height: 300px;
+  max-width: 300px;
+}
+
+.input-group {
+	margin-top: 25px;
+}
+
+#disabled, #catHolder {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#catHolder {
+	width: 90vw;
+}
+
+.cat-card {
+  border: solid black 2px;
+  display: inline-block;
+  height: 360px;
+  width: 300px;
+  margin: 10px;
+  padding-top: 10px;
+}
+
 .hidden {
 	display: none;
 }
